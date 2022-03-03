@@ -56,4 +56,3 @@ consisting of a mix of text and code.
 
 You will receive a (short) feedback message from us on your portfolio assignments that you can use for improvements before finalizing your hand-ins.
 
-hej
